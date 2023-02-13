@@ -125,9 +125,9 @@ if(flag==1):
 
         
 # Email credentials
-        from_email = "ngarg2k2testing@gmail.com"
+        from_email = "deepakbansal2609@gmail.com"
         to_email = Email
-        password = "cfhmoxuzbzlpexii"
+        password = "aplkmqkndmlnmcwg"
 
 # Email settings
         subject = "Zip file attached"
